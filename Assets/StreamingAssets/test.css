@@ -1,0 +1,12 @@
+title{
+	Text.font:"Arial";
+	/*aaa*/
+}
+context{
+	Text.font:"Arial";
+}
+pic2{
+	RectTransform.position:"100,150,0";
+	RectTransform.sizeDelta:"100,20";
+	/*aaa*/
+}

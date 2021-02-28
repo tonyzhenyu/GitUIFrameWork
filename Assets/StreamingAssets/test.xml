@@ -1,0 +1,7 @@
+<root>UnityEngine.RectTransform
+    <title Text.fontSize = "22" Text.text = "height=10" >UnityEngine.UI.Text
+        <context Text.fontSize = "15" Text.text = "@innertext" >UnityEngine.UI.Text</context>
+    </title>
+    <pic1 RectTransform.position ="0,0,0" RectTransform.sizeDelta ="100,100" Image.sprite ="Assets/StreamingAssets/mode2.jpg">UnityEngine.UI.Image</pic1>
+    <pic2 RectTransform.position ="100,525,0" RectTransform.sizeDelta ="100,20" Image.color ="150,20,60">UnityEngine.UI.Image</pic2>
+</root>
